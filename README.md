@@ -3,10 +3,6 @@
 [1]: https://github.com/SarthakMeher19/
 [2]: https://www.linkedin.com/in/sarthak-meher/
 
-
-[![github](https://raw.githubusercontent.com/SarthakMeher19/Telecom-Customer-Churn-Prediction/c292abd3f9cc647a7edc0061193f1523e9c05e1f/icons/git.svg)][1]
-[![linkedin](https://raw.githubusercontent.com/SarthakMeher19/Telecom-Customer-Churn-Prediction/9f5c4a255972275ced549ea6e34ef35019166944/icons/iconmonstr-linkedin-5.svg)][2]
-
 </div>
 
 
